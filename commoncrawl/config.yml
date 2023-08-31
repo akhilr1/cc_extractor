@@ -1,0 +1,4 @@
+DB_HOST: localhost
+DB_USERNAME: postgres
+DB_PASSWORD: p@ssw0rd
+DB_DATABASE: common_crawl
